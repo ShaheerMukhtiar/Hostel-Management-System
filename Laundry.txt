@@ -1,0 +1,144 @@
+
+                     Jun  1 2023
+
+Name:  n(
+Category: pc
+Hostel No: j2
+Room No: 3
+Washerman No: 129
+
+Pants = 4
+Shirts = 5
+Trousers = 6
+Nickers = 7
+T-Shirts = 8
+                     Jun  1 2023
+
+Name: 
+Category: cd
+Hostel No: "e:\Semesters\2nd\FOP\StudyMaterial\AdnanProject\"
+Room No: 0
+Washerman No: (
+
+                     Jun  1 2023
+
+Name: 
+Category: Pc
+Hostel No: j2
+Room No: 12
+Washerman No: 123
+
+Sheets = 3
+Sheets = 5
+Pants = 2
+                     Jun  1 2023
+
+Name: 
+Category: pc
+Hostel No: 43
+Room No: 34
+Washerman No: 543
+
+Towels = 54
+Sheets = 4
+                     Jun  1 2023
+
+Name: Rustam
+Category: cd
+Hostel No: "e:\Semesters\2nd\FOP\StudyMaterial\AdnanProject\"
+Room No: 0
+Washerman No: K
+
+                     Jun  1 2023
+
+Name: Shaheer Mukhtiar
+Category: pc
+Hostel No: 2
+Room No: 7
+Washerman No: 67
+
+Towels = 6
+T-Shirts = 7
+                     Jun  1 2023
+
+Name: Shaheer Mukhtiar
+Category: PC
+Hostel No: J@
+Room No: 3
+Washerman No: 129
+
+Towels = 10
+Shalwar Kamees = 15
+Nickers = 4
+                     Jun  1 2023
+
+Name: Shaheer Mukhtiar
+Category: pc
+Hostel No: -1
+Room No: -1
+Washerman No: a
+
+Towels = -1
+Shalwar Kamees = 2
+                     Jun  2 2023
+
+Name: Minor Khalid
+Category: NC
+Hostel No: 2
+Room No: 3
+Washerman No: 301
+
+Towels = 3
+Shalwar Kamees = 5
+T-Shirts = 3
+                     Jun  2 2023
+
+Name: Minor Khalid
+Category: NC
+Hostel No: 2
+Room No: 3
+Washerman No: 4
+
+Towels = 3
+Pants = 3
+                     Jun  2 2023
+
+Name: Minor Khalid
+Category: NC
+Hostel No: 2
+Room No: 4
+Washerman No: 401
+
+Towels = 3
+Sheets = 4
+,
+                     Jun  2 2023
+
+Name: Minor Khalid
+Category: NC
+Hostel No: 2
+Room No: 4
+Washerman No: 5
+
+Towels = 3
+Pants = 5
+,
+                     Jun  2 2023
+
+Name: Minor Khalid
+Category: NC
+Hostel No: 3
+Room No: 4
+Washerman No: 412
+
+Towels = 4
+Shirts = 5
+Shalwar Kamees = 2
+,
+                     Jun  4 2023
+
+Name: Ali
+Category: pc
+Hostel No: 3
+Room No: 4
+Washerman No: 123
